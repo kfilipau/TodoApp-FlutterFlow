@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477744079434",
+    "project_id": "todo-fce1vt",
+    "storage_bucket": "todo-fce1vt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477744079434:android:d2f807bc8656c06ec93cb3",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7IjQXSGqkzR37vXJhKuVccLcM_lml2Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
