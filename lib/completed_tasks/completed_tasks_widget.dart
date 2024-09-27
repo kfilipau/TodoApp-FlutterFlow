@@ -42,7 +42,7 @@ class _CompletedTasksWidgetState extends State<CompletedTasksWidget> {
       onTap: () => FocusScope.of(context).unfocus(),
       child: Scaffold(
         key: scaffoldKey,
-        backgroundColor: FlutterFlowTheme.of(context).primaryBackground,
+        backgroundColor: const Color(0xDCF2CCAF),
         floatingActionButton: FloatingActionButton(
           onPressed: () async {
             await showModalBottomSheet(

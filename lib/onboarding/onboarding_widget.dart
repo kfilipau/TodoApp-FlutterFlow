@@ -47,7 +47,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
       onTap: () => FocusScope.of(context).unfocus(),
       child: Scaffold(
         key: scaffoldKey,
-        backgroundColor: FlutterFlowTheme.of(context).primaryBackground,
+        backgroundColor: const Color(0xDCF2CCAF),
         body: SafeArea(
           top: true,
           child: Align(
